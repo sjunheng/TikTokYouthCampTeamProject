@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirCare</string>
+    <string name="air_quality_status">Air quality status: %1$s</string>
+    <string name="air_quality_index">Air quality index: %1$s</string>
+</resources>
